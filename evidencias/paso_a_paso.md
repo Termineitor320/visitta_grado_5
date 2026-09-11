@@ -1,7 +1,7 @@
 # Paso a paso — Visita estudiantes grado 5
 
 ## Objetivo
-Enseñar a un estudiante de grado 5 a crear una página web sencilla con HTML y CSS durante una sesión de una hora.
+
 
 ## Materiales y herramientas
 - Computador con Windows.
@@ -76,4 +76,4 @@ El estudiante debe mostrar su página y explicar:
 4. Qué fue lo que más le gustó.
 5. Qué aprendió durante la actividad.
 
-El asesor puede complementar las explicaciones y ayudar al estudiante si olvida algún concepto.
+
