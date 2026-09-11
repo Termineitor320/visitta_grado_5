@@ -1,6 +1,6 @@
 # Visita estudiantes grado 5
 
-Actividad para enseñar a un estudiante de grado 5 a crear una página web básica usando HTML y CSS.
+
 
 ## Estructura
 - `sitio_web/`: archivos de la página web.
