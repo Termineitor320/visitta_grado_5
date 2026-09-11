@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #e8f4ff;
+    margin: 0;
+    padding: 40px 20px;
+}
+
+.tarjeta {
+    max-width: 650px;
+    margin: auto;
+    background: white;
+    padding: 30px;
+    border-radius: 18px;
+    text-align: center;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.12);
+}
+
+h1 {
+    color: #1769aa;
+}
+
+h2 {
+    color: #333;
+}
+
+ul {
+    text-align: left;
+    line-height: 1.8;
+}
+
+button {
+    border: none;
+    padding: 12px 20px;
+    border-radius: 10px;
+    background: #1769aa;
+    color: white;
+    cursor: pointer;
+}
